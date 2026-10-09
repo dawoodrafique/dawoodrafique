@@ -77,7 +77,7 @@ I'm a **Cloud & DevOps Engineer** and **Full-Stack Developer** from 🇵🇰 Pak
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-dawoodx.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dawoodx.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-dawoodx.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](www.dawoodrafique.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawoodrafique/)
 
 </div>
