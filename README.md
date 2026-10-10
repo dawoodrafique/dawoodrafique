@@ -1,88 +1,78 @@
-
-
-<!--
-**dawood-rafique/dawood-rafique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
-  
-# Hello There👋
 
+# Hi, I'm Dawood Rafique 👋
+
+### Cloud & DevOps Engineer · Full-Stack Developer
+
+Building scalable web applications and the cloud-native infrastructure they run on, from `git push` to production.
+
+[![Website](https://img.shields.io/badge/dawoodrafique.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050505)](https://dawoodrafique.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawoodrafique/)
+[![Email](https://img.shields.io/badge/info@dawoodrafique.com-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:info@dawoodrafique.com)
 
 </div>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About me
 
-I'm a **Cloud & DevOps Engineer** and **Full-Stack Developer** from 🇵🇰 Pakistan, passionate about building **scalable web applications** and managing **cloud-native infrastructure**. With strong expertise in **MERN stack development** and **DevOps practices**, I help bridge the gap between **application development** and **reliable cloud deployment**.  
+I'm a **Cloud & DevOps Engineer** and **Full-Stack Developer** from 🇵🇰 Pakistan, working with clients globally. I bridge the gap between **application development** and **reliable cloud delivery**: infrastructure as code, CI/CD pipelines, Kubernetes, and the web apps that sit on top.
 
-- 🔭 Currently working on **MERN applications**, **cloud-native solutions**, and **DevOps automation**  
-- 🌱 Exploring advanced topics in **container orchestration (Kubernetes, Docker)** and **cloud platforms (AWS, GCP, Azure)**  
-- 👯 Open to collaborating on **open-source DevOps tools** and **modern web applications**  
-- 💬 Ask me about **MERN stack, Cloud Infrastructure, CI/CD pipelines, and DevOps best practices**  
-- ⚡ Fun fact: I love automating repetitive tasks and turning ideas into **production-ready applications**  
+- 🔭 Building **AWS infrastructure with Terraform**, **EKS/Kubernetes platforms** and **CI/CD automation**
+- 🧱 Shipping **Next.js, React and MERN** applications end to end, including the pipeline that deploys them
+- 🏢 Experienced with **Liferay** and **WordPress** in production, hosted and automated on AWS
+- 💬 Ask me about **Terraform, Kubernetes, CI/CD, AWS and shipping web apps**
+- ⚡ Fun fact: if I do something twice, I automate it
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
-### **Languages & Frameworks**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+### Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,linux,bash,nginx,cloudflare&theme=dark" alt="Cloud and infrastructure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="48" height="48" />
 </p>
 
-### **Cloud & DevOps**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+### Containers & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,git,github&theme=dark" alt="Containers and CI/CD" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" width="48" height="48" />
 </p>
 
-### **Databases & Monitoring**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+### Monitoring & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,mongodb,postgres,mysql,redis&theme=dark" alt="Monitoring and databases" />
+</p>
+
+### Languages & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=py,go,js,ts,nodejs,express,react,nextjs,php,wordpress,vercel&theme=dark" alt="Languages and web" />
 </p>
 
 ---
 
+## 📦 Featured projects
 
+| Project | What it shows | Stack |
+|---|---|---|
+| [**EKS DevOps Platform**](https://github.com/dawoodrafique/eks-devops-platform) | VPC + private EKS cluster, Helm releases, GitHub Actions with OIDC, automated Postgres backups to S3 | Terraform · EKS · Helm · GitHub Actions |
+| [**Liferay Edge-to-Origin**](https://github.com/dawoodrafique/liferay-edge-to-origin) | Hardened Liferay 7.4 server on AWS with backups, monitoring and cost alerts | Terraform · AWS · Apache · MariaDB |
+| [**Terraform & Ansible Automation**](https://github.com/dawoodrafique/terraform-ansible-automation) | Provision with Terraform, configure with Ansible across Amazon Linux, RHEL and Ubuntu | Terraform · Ansible · AWS |
+| [**VisitCounter**](https://github.com/dawoodrafique/visitcounter) | Serverless real-time visit counter | S3 · CloudFront · Lambda · DynamoDB |
+| [**LangChoice**](https://github.com/dawoodrafique/langchoice) | Full-stack voting platform, infrastructure through delivery | Next.js · Go · MongoDB · Jenkins · EKS |
 
+Full case studies, including two live web apps, are on **[dawoodrafique.com](https://dawoodrafique.com)**.
 
-## 🌐 Connect With Me
+---
+
+## 🌐 Let's connect
 
 <div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-dawoodx.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](www.dawoodrafique.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawoodrafique/)
+
+[![Visit my portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-dawoodrafique.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050505&labelColor=050505)](https://dawoodrafique.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/dawoodrafique/)
+[![Hire me on Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=050505)](https://www.fiverr.com/muhammaddawoo)
 
 </div>
-
----
-
-
-
